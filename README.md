@@ -6,7 +6,7 @@ Online-Update-Pakete für Raspi-TV OS. Der Raspberry Pi lädt hier
 
 und installiert neuere Versionen nachts automatisch (Einstellungen · Updates · Online-Update).
 
-Aktuelle Version: **7.1.7**
+Aktuelle Version: **7.1.8**
 
 Die Pakete enthalten keinen App-Signaturschlüssel, kein Image-Bauskript und keine
 persönlichen Daten. Große Medienpakete (Hintergründe, Videos) werden weiter per USB-Stick installiert.

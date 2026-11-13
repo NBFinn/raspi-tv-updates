@@ -1,7 +1,7 @@
 {
- "version": "7.1.9",
- "size": 2051089,
- "sha256": "c3d7e9a9c3e5160493e557cb37263760190888102f6d03dcae3bb3ca59e65cc7",
- "teensy_firmware": "1.0.6",
+ "version": "7.2.0",
+ "size": 2082467,
+ "sha256": "2147470bb3881535e37c4028c6372f4c70c59bd5d91f0722cc8220541687fa79",
+ "teensy_firmware": "1.1.0",
  "app": "1.11"
 }
